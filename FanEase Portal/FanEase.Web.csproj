@@ -9,4 +9,16 @@
     <ProjectReference Include="..\FanEase.Model\FanEase.Model.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Areas\" />
+    <Folder Include="Areas\Login\Controllers\" />
+    <Folder Include="Areas\Login\Data\" />
+    <Folder Include="Areas\Login\Models\" />
+    <Folder Include="Areas\Login\Views\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.5" />
+  </ItemGroup>
+
 </Project>
