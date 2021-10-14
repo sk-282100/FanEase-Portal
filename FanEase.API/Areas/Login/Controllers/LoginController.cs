@@ -21,13 +21,9 @@ namespace FanEase.API.Areas.Login.Controllers
         {
             return Ok(_loginRepository.LoginTest());
         }
-        //[HttpGet]
-        //public IActionResult ExceptionDemo()
-        //{
-        //    int a = 1;
-        //    int b = 0;
-            
-        //    return Ok(a / b); 
-        //}
+        [HttpGet]
+        public IActionResult checkValidateUser(string userName, string password) {
+            return Ok(_loginRepository.LoginTest());
+        }
     }
 }

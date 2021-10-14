@@ -1,0 +1,30 @@
+﻿@using FanEase.Model.LoginModel;
+@model Login;
+<html>
+<head>
+    <link rel="stylesheet" href="~/css/Login.css" />
+</head>
+<body>
+    <div class="wrapper fadeInDown">
+        <div id="formContent">
+            <!-- Tabs Titles -->
+            <h2 class="active"> Sign In </h2>
+
+
+            <!-- Login Form -->
+            @using (Html.BeginForm("Index", "Login", FormMethod.Post, new { enctype = "multipart/form-data" }))
+            {
+                <input type="text" class="fadeIn second" name="@Model.Username" placeholder="login">
+                <input type="text" class="fadeIn third" name="@Model.Password" placeholder="password">
+                <input type="submit" class="fadeIn fourth" value="Log In">
+            }
+
+                <!-- Remind Passowrd -->
+                <div id="formFooter">
+                    <a class="underlineHover" href="#">Forgot Password?</a>
+                </div>
+
+            </div>
+    </div>
+</body>
+</html>
