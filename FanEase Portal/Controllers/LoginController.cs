@@ -22,6 +22,8 @@ namespace FanEase_Portal.Controllers
         [HttpPost]
         public IActionResult Index(Login model)
         {
+            model.Username = "Shankar";
+            model.Password = "Shankar";
             _logInUserService.GetLoginUserDetail(model.Username, model.Password);
             return View(model);
         }

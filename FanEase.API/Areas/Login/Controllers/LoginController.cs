@@ -21,9 +21,9 @@ namespace FanEase.API.Areas.Login.Controllers
         {
             return Ok(_loginRepository.LoginTest());
         }
-        [HttpGet]
+        [HttpGet("checkValidateUser")]
         public IActionResult checkValidateUser(string userName, string password) {
-            return Ok(_loginRepository.LoginTest());
+            return Ok(_loginRepository.checkValidateUser(userName, password));
         }
     }
 }

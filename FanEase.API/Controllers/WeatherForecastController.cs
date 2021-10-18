@@ -35,5 +35,10 @@ namespace FanEase.API.Controllers
             })
             .ToArray();
         }
+        [HttpGet("Index")]
+        public IActionResult Index()
+        {
+            return Ok("asd");
+        }
     }
 }

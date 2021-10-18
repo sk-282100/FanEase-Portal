@@ -3,34 +3,34 @@ using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Threading.Tasks;
-
+using System.Data.SqlClient;
 namespace FanEase.Model.Common
 {
 
-    public abstract class SqlRepository<TEntity> : IDisposable
+    public static class SqlRepository
     {
-        private EDbConnectionTypes _dbType;
-        private readonly IConfiguration _config;
-        private IDbConnection _conn;
+        private static SqlConnection _conn;
 
-        public SqlRepository(IConfiguration configuration)
+        public static SqlConnection GetOpenConnection()
         {
-            _dbType = EDbConnectionTypes.Sql;
-            _config = configuration;
-        }
-
-        public IDbConnection GetOpenConnection()
-        {
-            _conn = DbConnectionFactory.GetDbConnection(_dbType, "Data Source=180.149.240.247;Initial Catalog=FAMP_Dev;Persist Security Info=True;User ID=famp_dbusers;Password=famp123!@#;");
+            _conn = new SqlConnection( "Data Source=180.149.240.247;Initial Catalog=FAMP_Dev;Persist Security Info=True;User ID=famp_dbusers;Password=famp123!@#;");
             return _conn;
         }
 
-       
-        public void Dispose()
+        public static void OpenConnection(SqlConnection conn)
         {
-            if (_conn != null && _conn.State == ConnectionState.Open)
+            if (conn.State == ConnectionState.Closed)
             {
-                _conn.Close();
+                conn.Open();
+            }
+        }
+
+
+        public static void Dispose(SqlConnection conn)
+        {
+            if (conn != null && conn.State == ConnectionState.Open)
+            {
+                conn.Close();
             }
         }
     }
