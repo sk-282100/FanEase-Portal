@@ -1,0 +1,37 @@
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.Model\bin\Debug\netcoreapp3.1\FanEase.Model.deps.json
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.Model\bin\Debug\netcoreapp3.1\FanEase.Model.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.Model\bin\Debug\netcoreapp3.1\FanEase.Model.pdb
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.Model\obj\Debug\netcoreapp3.1\FanEase.Model.csproj.AssemblyReference.cache
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.Model\obj\Debug\netcoreapp3.1\FanEase.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.Model\obj\Debug\netcoreapp3.1\FanEase.Model.AssemblyInfoInputs.cache
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.Model\obj\Debug\netcoreapp3.1\FanEase.Model.AssemblyInfo.cs
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.Model\obj\Debug\netcoreapp3.1\FanEase.Model.csproj.CoreCompileInputs.cache
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.Model\obj\Debug\netcoreapp3.1\FanEase.Model.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.Model\obj\Debug\netcoreapp3.1\FanEase.Model.pdb
+C:\Users\user\Desktop\Fan-Ease\FanEase.Model\bin\Debug\netcoreapp3.1\FanEase.Model.deps.json
+C:\Users\user\Desktop\Fan-Ease\FanEase.Model\bin\Debug\netcoreapp3.1\FanEase.Model.dll
+C:\Users\user\Desktop\Fan-Ease\FanEase.Model\bin\Debug\netcoreapp3.1\FanEase.Model.pdb
+C:\Users\user\Desktop\Fan-Ease\FanEase.Model\obj\Debug\netcoreapp3.1\FanEase.Model.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Fan-Ease\FanEase.Model\obj\Debug\netcoreapp3.1\FanEase.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Fan-Ease\FanEase.Model\obj\Debug\netcoreapp3.1\FanEase.Model.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Fan-Ease\FanEase.Model\obj\Debug\netcoreapp3.1\FanEase.Model.AssemblyInfo.cs
+C:\Users\user\Desktop\Fan-Ease\FanEase.Model\obj\Debug\netcoreapp3.1\FanEase.Model.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Fan-Ease\FanEase.Model\obj\Debug\netcoreapp3.1\FanEase.Model.dll
+C:\Users\user\Desktop\Fan-Ease\FanEase.Model\obj\Debug\netcoreapp3.1\FanEase.Model.pdb
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.Model\bin\Debug\netcoreapp3.1\FanEase.Model.deps.json
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.Model\bin\Debug\netcoreapp3.1\FanEase.Model.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.Model\bin\Debug\netcoreapp3.1\FanEase.Model.pdb
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.Model\obj\Debug\netcoreapp3.1\FanEase.Model.AssemblyInfoInputs.cache
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.Model\obj\Debug\netcoreapp3.1\FanEase.Model.AssemblyInfo.cs
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.Model\obj\Debug\netcoreapp3.1\FanEase.Model.csproj.CoreCompileInputs.cache
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.Model\obj\Debug\netcoreapp3.1\FanEase.Model.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.Model\obj\Debug\netcoreapp3.1\FanEase.Model.pdb
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.Model\obj\Debug\netcoreapp3.1\FanEase.Model.csproj.AssemblyReference.cache
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.Model\bin\Debug\netcoreapp3.1\FanEase.Model.deps.json
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.Model\bin\Debug\netcoreapp3.1\FanEase.Model.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.Model\bin\Debug\netcoreapp3.1\FanEase.Model.pdb
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.Model\obj\Debug\netcoreapp3.1\FanEase.Model.AssemblyInfoInputs.cache
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.Model\obj\Debug\netcoreapp3.1\FanEase.Model.AssemblyInfo.cs
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.Model\obj\Debug\netcoreapp3.1\FanEase.Model.csproj.CoreCompileInputs.cache
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.Model\obj\Debug\netcoreapp3.1\FanEase.Model.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.Model\obj\Debug\netcoreapp3.1\FanEase.Model.pdb

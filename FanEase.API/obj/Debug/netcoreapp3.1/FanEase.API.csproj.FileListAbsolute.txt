@@ -1,0 +1,337 @@
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\FanEase.API.exe
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\FanEase.API.deps.json
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\FanEase.API.runtimeconfig.json
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\FanEase.API.runtimeconfig.dev.json
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\FanEase.API.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\FanEase.API.pdb
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\FanEase.Model.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\FanEase.Service.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\FanEase.Model.pdb
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\bin\Debug\netcoreapp3.1\FanEase.Service.pdb
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\obj\Debug\netcoreapp3.1\FanEase.API.csproj.AssemblyReference.cache
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\obj\Debug\netcoreapp3.1\FanEase.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\obj\Debug\netcoreapp3.1\FanEase.API.AssemblyInfoInputs.cache
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\obj\Debug\netcoreapp3.1\FanEase.API.AssemblyInfo.cs
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\obj\Debug\netcoreapp3.1\FanEase.API.csproj.CoreCompileInputs.cache
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\obj\Debug\netcoreapp3.1\FanEase.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\obj\Debug\netcoreapp3.1\FanEase.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\obj\Debug\netcoreapp3.1\staticwebassets\FanEase.API.StaticWebAssets.Manifest.cache
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\obj\Debug\netcoreapp3.1\staticwebassets\FanEase.API.StaticWebAssets.xml
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\FanEase.API.styles.css
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\obj\Debug\netcoreapp3.1\FanEase.API.RazorTargetAssemblyInfo.cache
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\obj\Debug\netcoreapp3.1\FanEase.API.csproj.CopyComplete
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\obj\Debug\netcoreapp3.1\FanEase.API.dll
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\obj\Debug\netcoreapp3.1\FanEase.API.pdb
+C:\Users\X270\source\FanEase\FanEase-Portal\FanEase.API\obj\Debug\netcoreapp3.1\FanEase.API.genruntimeconfig.cache
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\FanEase.API.exe
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\FanEase.API.deps.json
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\FanEase.API.runtimeconfig.json
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\FanEase.API.runtimeconfig.dev.json
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\FanEase.API.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\FanEase.API.pdb
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\FanEase.Model.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\FanEase.Service.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\FanEase.Model.pdb
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\bin\Debug\netcoreapp3.1\FanEase.Service.pdb
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\obj\Debug\netcoreapp3.1\FanEase.API.csproj.AssemblyReference.cache
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\obj\Debug\netcoreapp3.1\FanEase.API.AssemblyInfoInputs.cache
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\obj\Debug\netcoreapp3.1\FanEase.API.AssemblyInfo.cs
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\obj\Debug\netcoreapp3.1\FanEase.API.csproj.CoreCompileInputs.cache
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\obj\Debug\netcoreapp3.1\FanEase.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\obj\Debug\netcoreapp3.1\FanEase.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\obj\Debug\netcoreapp3.1\staticwebassets\FanEase.API.StaticWebAssets.Manifest.cache
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\obj\Debug\netcoreapp3.1\staticwebassets\FanEase.API.StaticWebAssets.xml
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\FanEase.API.styles.css
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\obj\Debug\netcoreapp3.1\FanEase.API.RazorTargetAssemblyInfo.cache
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\obj\Debug\netcoreapp3.1\FanEase.API.csproj.CopyComplete
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\obj\Debug\netcoreapp3.1\FanEase.API.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\obj\Debug\netcoreapp3.1\FanEase.API.pdb
+C:\Users\Kajal Padhiyar\Documents\CCL\FrontFanEase\FanEase.API\obj\Debug\netcoreapp3.1\FanEase.API.genruntimeconfig.cache
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\FanEase.API.exe
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\FanEase.API.deps.json
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\FanEase.API.runtimeconfig.json
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\FanEase.API.runtimeconfig.dev.json
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\FanEase.API.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\FanEase.API.pdb
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\FanEase.Model.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\FanEase.Service.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\FanEase.Model.pdb
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\bin\Debug\netcoreapp3.1\FanEase.Service.pdb
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\obj\Debug\netcoreapp3.1\FanEase.API.csproj.AssemblyReference.cache
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\obj\Debug\netcoreapp3.1\FanEase.API.AssemblyInfoInputs.cache
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\obj\Debug\netcoreapp3.1\FanEase.API.AssemblyInfo.cs
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\obj\Debug\netcoreapp3.1\FanEase.API.csproj.CoreCompileInputs.cache
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\obj\Debug\netcoreapp3.1\FanEase.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\obj\Debug\netcoreapp3.1\FanEase.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\obj\Debug\netcoreapp3.1\staticwebassets\FanEase.API.StaticWebAssets.Manifest.cache
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\obj\Debug\netcoreapp3.1\staticwebassets\FanEase.API.StaticWebAssets.xml
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\FanEase.API.styles.css
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\obj\Debug\netcoreapp3.1\FanEase.API.RazorTargetAssemblyInfo.cache
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\obj\Debug\netcoreapp3.1\FanEase.API.csproj.CopyComplete
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\obj\Debug\netcoreapp3.1\FanEase.API.dll
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\obj\Debug\netcoreapp3.1\FanEase.API.pdb
+C:\Users\Kajal Padhiyar\Documents\CCL\FanEase\FanEase.API\obj\Debug\netcoreapp3.1\FanEase.API.genruntimeconfig.cache

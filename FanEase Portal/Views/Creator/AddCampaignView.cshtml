@@ -1,0 +1,373 @@
+﻿
+@{
+    ViewData["Title"] = "AddCampaignView";
+}
+
+
+
+<head>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="~/css/temp.css" />
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script src="~/js/AddVideo.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.6.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.2/css/jquery.dataTables.min.css" />
+    <script type="text/javascript" src="https://cdn.datatables.net/1.10.2/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto|Varela+Round|Open+Sans">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+        table,
+        thead,
+        tr,
+        tbody,
+        th,
+        td {
+            text-align: center;
+        }
+
+        .table td {
+            text-align: center;
+        }
+    </style>
+</head>
+
+<div class="container-fluid">
+
+    <div class="row" style="background-color: #F5F5F5;">
+        <div class="col-2 collapse show d-md-flex pt-2 pl-0 min-vh-100" id="sidebar">
+            <ul class="nav flex-column flex-nowrap overflow-hidden">
+                <li class="nav-item" width: 400px;"><a class="nav-link text-truncate" href="#" style="color:white"><i class="fa fa-home" style="color:white;"></i><span class="d-none d-sm-inline" id="sidetext" style="color: white;">  DashBoard</span></a> </li>
+                <li class="nav-item"><a class="nav-link text-truncate" href="~/Creator/AddVideoView" id="sidetext" style="color:white"><i class="bi bi-camera-video-fill" style="color:white"></i>  Videos</a></li>
+                <li class="nav-item"><a class="nav-link text-truncate"  href="~/Creator/AddCampaignView" id="sidetext" style="background-color: #F5F5F5;width:400px;color:black;"><i class="fas fa-rocket" style="color:black"></i> <span class="d-none d-sm-inline" id="sidetext" style="color: black;">Campaigns</span></a></li>
+                <li class="nav-item"><a class="nav-link text-truncate" href="~/Creator/AddAsset" id="sidetext" style="color:white"><i class="bi bi-youtube" style="color:white"></i> <span class="d-none d-sm-inline" id="sidetext" style="color:white">Media</span></a></li>
+                <li class="nav-item"><a class="nav-link text-truncate" href="#" id="sidetext" style="color:white"><i class="bi bi-ui-checks-grid" style="color:white"></i> <span class="d-none d-sm-inline" id="sidetext" style="color:white">Template</span></a></li>
+            </ul>
+        </div>
+        <div class="col pt-2">
+            <h3>Add New Video</h3><br /><br />
+            <div id="try" style="display:flex">
+                <div>
+                    <a><label style="text-decoration:underline; color: dodgerblue">Create New Campaign</label></a>&emsp;&emsp;
+                    <a href="~/Creator/ExistingCampaign"><label>Select Existing Campaign</label></a>
+                </div>
+                <div style="margin-left:auto;margin-right:0;">
+                    <a href="~/Creator/SelectAsset"><label>View Existing Assets</label></a>&emsp;&emsp;
+                    <a href="~/Creator/AddAsset"><label>Add More Asset</label></a>
+                </div>
+            </div>
+            <div id="createCampaign">
+                <h6>Campaign Name :</h6>
+                <input type="text" class="form-control mb-2 mr-sm-2" id="txt_campaignName" placeholder="Campaign Name ">
+                <div style="display:flex">
+                    <div>
+                        <p>Start Date of Campaign &emsp;&emsp;&emsp;&emsp;</p>
+                        <input type="date" />&emsp;&emsp;&emsp;&emsp;
+                    </div>
+                    <div>
+                        <p>End Date of Campaign</p>
+                        <input type="date" />
+                    </div>
+                </div>
+            </div>
+            <div style="margin-top:20px;">
+                <table id="myTable" class="table table-bordered table-sm table-hover">
+                    <thead style="background-color: #56baed;color:white;">
+                        <tr>
+                            <th class="no-sort">Thumbnail</th>
+                            <th>Content Type</th>
+                            <th>Title</th>
+                            <th>Description</th>
+                            <th>Advertisement Duration</th>
+                            <th>Start Date</th>
+                            <th class="no-sort">End Date</th>
+                            <th class="no-sort">Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><div class="text-center"><img src="..." class="rounded" alt="image"></div></td>
+                            <td>Image</td>
+                            <td>Tite of Advertisement</td>
+                            <td>Many desktop pubishing packages and web pages editors</td>
+                            <td>3:31 min</td>
+                            <td>June 23, 2021</td>
+                            <td>June 30, 2021</td>
+                            <td>
+                                <a class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons"></i></a>
+                                <a class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons"></i></a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><div class="text-center"><img src="..." class="rounded" alt="image"></div></td>
+                            <td>Image</td>
+                            <td>Tite of Advertisement</td>
+                            <td>Many desktop pubishing packages and web pages editors</td>
+                            <td>3:31 min</td>
+                            <td>June 23, 2021</td>
+                            <td>June 30, 2021</td>
+                            <td>
+                                <a class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons"></i></a>
+                                <a class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons"></i></a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><div class="text-center"><img src="..." class="rounded" alt="image"></div></td>
+                            <td>Image</td>
+                            <td>Tite of Advertisement</td>
+                            <td>Many desktop pubishing packages and web pages editors</td>
+                            <td>3:31 min</td>
+                            <td>June 23, 2021</td>
+                            <td>June 30, 2021</td>
+                            <td>
+                                <a class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons"></i></a>
+                                <a class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons"></i></a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><div class="text-center"><img src="..." class="rounded" alt="image"></div></td>
+                            <td>Image</td>
+                            <td>Tite of Advertisement</td>
+                            <td>Many desktop pubishing packages and web pages editors</td>
+                            <td>3:31 min</td>
+                            <td>June 23, 2021</td>
+                            <td>June 30, 2021</td>
+                            <td>
+                                <a class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons"></i></a>
+                                <a class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons"></i></a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><div class="text-center"><img src="..." class="rounded" alt="image"></div></td>
+                            <td>Image</td>
+                            <td>Tite of Advertisement</td>
+                            <td>Many desktop pubishing packages and web pages editors</td>
+                            <td>3:31 min</td>
+                            <td>June 23, 2021</td>
+                            <td>June 30, 2021</td>
+                            <td>
+                                <a class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons"></i></a>
+                                <a class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons"></i></a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><div class="text-center"><img src="..." class="rounded" alt="image"></div></td>
+                            <td>Image</td>
+                            <td>Tite of Advertisement</td>
+                            <td>Many desktop pubishing packages and web pages editors</td>
+                            <td>3:31 min</td>
+                            <td>June 23, 2021</td>
+                            <td>June 30, 2021</td>
+                            <td>
+                                <a class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons"></i></a>
+                                <a class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons"></i></a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><div class="text-center"><img src="..." class="rounded" alt="image"></div></td>
+                            <td>Image</td>
+                            <td>Tite of Advertisement</td>
+                            <td>Many desktop pubishing packages and web pages editors</td>
+                            <td>3:31 min</td>
+                            <td>June 23, 2021</td>
+                            <td>June 30, 2021</td>
+                            <td>
+                                <a class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons"></i></a>
+                                <a class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons"></i></a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><div class="text-center"><img src="..." class="rounded" alt="image"></div></td>
+                            <td>Image</td>
+                            <td>Tite of Advertisement</td>
+                            <td>Many desktop pubishing packages and web pages editors</td>
+                            <td>3:31 min</td>
+                            <td>June 23, 2021</td>
+                            <td>June 30, 2021</td>
+                            <td>
+                                <a class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons"></i></a>
+                                <a class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons"></i></a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><div class="text-center"><img src="..." class="rounded" alt="image"></div></td>
+                            <td>Image</td>
+                            <td>Tite of Advertisement</td>
+                            <td>Many desktop pubishing packages and web pages editors</td>
+                            <td>3:31 min</td>
+                            <td>June 23, 2021</td>
+                            <td>June 30, 2021</td>
+                            <td>
+                                <a class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons"></i></a>
+                                <a class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons"></i></a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><div class="text-center"><img src="..." class="rounded" alt="image"></div></td>
+                            <td>Image</td>
+                            <td>Tite of Advertisement</td>
+                            <td>Many desktop pubishing packages and web pages editors</td>
+                            <td>3:31 min</td>
+                            <td>June 23, 2021</td>
+                            <td>June 30, 2021</td>
+                            <td>
+                                <a class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons"></i></a>
+                                <a class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons"></i></a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><div class="text-center"><img src="..." class="rounded" alt="image"></div></td>
+                            <td>Image</td>
+                            <td>Tite of Advertisement</td>
+                            <td>Many desktop pubishing packages and web pages editors</td>
+                            <td>3:31 min</td>
+                            <td>June 23, 2021</td>
+                            <td>June 30, 2021</td>
+                            <td>
+                                <a class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons"></i></a>
+                                <a class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons"></i></a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><div class="text-center"><img src="..." class="rounded" alt="image"></div></td>
+                            <td>Image</td>
+                            <td>Tite of Advertisement</td>
+                            <td>Many desktop pubishing packages and web pages editors</td>
+                            <td>3:31 min</td>
+                            <td>June 23, 2021</td>
+                            <td>June 30, 2021</td>
+                            <td>
+                                <a class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons"></i></a>
+                                <a class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons"></i></a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><div class="text-center"><img src="..." class="rounded" alt="image"></div></td>
+                            <td>Image</td>
+                            <td>Tite of Advertisement</td>
+                            <td>Many desktop pubishing packages and web pages editors</td>
+                            <td>3:31 min</td>
+                            <td>June 23, 2021</td>
+                            <td>June 30, 2021</td>
+                            <td>
+                                <a class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons"></i></a>
+                                <a class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons"></i></a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><div class="text-center"><img src="..." class="rounded" alt="image"></div></td>
+                            <td>Image</td>
+                            <td>Tite of Advertisement</td>
+                            <td>Many desktop pubishing packages and web pages editors</td>
+                            <td>3:31 min</td>
+                            <td>June 23, 2021</td>
+                            <td>June 30, 2021</td>
+                            <td>
+                                <a class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons"></i></a>
+                                <a class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons"></i></a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><div class="text-center"><img src="..." class="rounded" alt="image"></div></td>
+                            <td>Image</td>
+                            <td>Tite of Advertisement</td>
+                            <td>Many desktop pubishing packages and web pages editors</td>
+                            <td>3:31 min</td>
+                            <td>June 23, 2021</td>
+                            <td>June 30, 2021</td>
+                            <td>
+                                <a class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons"></i></a>
+                                <a class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons"></i></a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><div class="text-center"><img src="..." class="rounded" alt="image"></div></td>
+                            <td>Image</td>
+                            <td>Tite of Advertisement</td>
+                            <td>Many desktop pubishing packages and web pages editors</td>
+                            <td>3:31 min</td>
+                            <td>June 23, 2021</td>
+                            <td>June 30, 2021</td>
+                            <td>
+                                <a class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons"></i></a>
+                                <a class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons"></i></a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><div class="text-center"><img src="..." class="rounded" alt="image"></div></td>
+                            <td>Image</td>
+                            <td>Tite of Advertisement</td>
+                            <td>Many desktop pubishing packages and web pages editors</td>
+                            <td>3:31 min</td>
+                            <td>June 23, 2021</td>
+                            <td>June 30, 2021</td>
+                            <td>
+                                <a class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons"></i></a>
+                                <a class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons"></i></a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><div class="text-center"><img src="..." class="rounded" alt="image"></div></td>
+                            <td>Image</td>
+                            <td>Tite of Advertisement</td>
+                            <td>Many desktop pubishing packages and web pages editors</td>
+                            <td>3:31 min</td>
+                            <td>June 23, 2021</td>
+                            <td>June 30, 2021</td>
+                            <td>
+                                <a class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons"></i></a>
+                                <a class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons"></i></a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><div class="text-center"><img src="..." class="rounded" alt="image"></div></td>
+                            <td>Image</td>
+                            <td>Tite of Advertisement</td>
+                            <td>Many desktop pubishing packages and web pages editors</td>
+                            <td>3:31 min</td>
+                            <td>June 23, 2021</td>
+                            <td>June 30, 2021</td>
+                            <td>
+                                <a class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons"></i></a>
+                                <a class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons"></i></a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><div class="text-center"><img src="..." class="rounded" alt="image"></div></td>
+                            <td>Image</td>
+                            <td>Tite of Advertisement</td>
+                            <td>Many desktop pubishing packages and web pages editors</td>
+                            <td>3:31 min</td>
+                            <td>June 23, 2021</td>
+                            <td>June 30, 2021</td>
+                            <td>
+                                <a class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons"></i></a>
+                                <a class="delete" title="Delete" data-toggle="tooltip"><i class="material-icons"></i></a>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div style="float:right;">
+                <button class="btn btn-secondary">Previous</button>
+                <button class="btn btn-primary">Proceed</button>
+            </div>
+        </div>
+
+
+    </div>
+</div>
+<script>
+    $(document).ready(function () {
+        $('#myTable').dataTable({
+            "columnDefs": [{ targets: 'no-sort', orderable: false }]
+        });
+        console.log(1);
+    });
+</script>
+<script src="~/js/Campaign.js"></script>
